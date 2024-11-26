@@ -1,3 +1,9 @@
+node-sort-keys (2.0.0-4deepin1) unstable; urgency=medium
+
+  fix install path by changing debhelper to dh-sequence-nodejs
+
+ -- SignKirigami <prcups@krgm.moe>  Sat, 30 Nov 2024 12:38:53 +0800
+
 node-sort-keys (2.0.0-4) unstable; urgency=medium
 
   * Remove constraints unnecessary since buster:
